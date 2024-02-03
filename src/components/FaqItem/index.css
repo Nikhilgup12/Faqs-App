@@ -1,0 +1,28 @@
+.faq-list {
+  list-style: none;
+  margin-bottom: 15px;
+  box-shadow: 0px 4px 16px 0px #bfbfbf;
+  padding: 25px;
+}
+.faq-question-list {
+  display: flex;
+  justify-content: space-between;
+}
+.faq-answer {
+  margin-top: 15px;
+}
+.faq-question-heading {
+  color: #52606d;
+  font-size: 17px;
+  font-family: Roboto;
+}
+.plus-btn {
+  background-color: transparent;
+  border-width: 0px;
+}
+.faq-answer-para {
+  color: #9aa5b1;
+  font-size: 15px;
+  font-family: Roboto;
+  margin-top: 10px;
+}
